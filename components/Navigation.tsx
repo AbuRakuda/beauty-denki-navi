@@ -10,6 +10,7 @@ const navLinks = [
   { href: '/category/face-device', label: '美顔器' },
   { href: '/category/hair-dryer', label: 'ドライヤー' },
   { href: '/compare', label: '比較する' },
+  { href: '/column', label: 'コラム' },
 ];
 
 export default function Navigation() {

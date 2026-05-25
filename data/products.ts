@@ -13,7 +13,7 @@ export const products: Product[] = [
     reviewCount: 13200,
     imageUrl: '/images/placeholder.svg',
     affiliateUrls: {
-      amazon: 'https://www.amazon.co.jp/dp/B07GFQ7RKC?tag=beautynavi22-22',
+      amazon: 'https://www.amazon.co.jp/dp/B091F7BL35?tag=beautynavi22-22',
       rakuten: 'https://search.rakuten.co.jp/search/mall/ケノン/',
       official: 'https://www.ke-non.com/',
     },
@@ -92,7 +92,7 @@ export const products: Product[] = [
     reviewCount: 8500,
     imageUrl: '/images/placeholder.svg',
     affiliateUrls: {
-      amazon: 'https://www.amazon.co.jp/dp/B09YQJNZKG?tag=beautynavi22-22',
+      amazon: 'https://www.amazon.co.jp/dp/B09TFGV11Z?tag=beautynavi22-22',
       rakuten: 'https://search.rakuten.co.jp/search/mall/シルクエキスパート/',
     },
     catchCopy: '肌色センサーで安全＆スピーディーな光美容',
@@ -160,7 +160,7 @@ export const products: Product[] = [
     reviewCount: 5200,
     imageUrl: '/images/placeholder.svg',
     affiliateUrls: {
-      amazon: 'https://www.amazon.co.jp/dp/B09ZK89TMP?tag=beautynavi22-22',
+      amazon: 'https://www.amazon.co.jp/dp/B0DT2W8QXZ?tag=beautynavi22-22',
       rakuten: 'https://search.rakuten.co.jp/search/mall/パナソニック+脱毛器/',
     },
     catchCopy: '初めての家庭用脱毛器に。パナソニックの安心品質',
@@ -223,7 +223,7 @@ export const products: Product[] = [
     reviewCount: 6800,
     imageUrl: '/images/placeholder.svg',
     affiliateUrls: {
-      amazon: 'https://www.amazon.co.jp/dp/B08Y5MNLQ3?tag=beautynavi22-22',
+      amazon: 'https://www.amazon.co.jp/dp/B0FM6N6PDK?tag=beautynavi22-22',
       rakuten: 'https://search.rakuten.co.jp/search/mall/ヤーマン+フォトプラス/',
       official: 'https://www.ya-man.com/',
     },
@@ -293,7 +293,7 @@ export const products: Product[] = [
     reviewCount: 15200,
     imageUrl: '/images/placeholder.svg',
     affiliateUrls: {
-      amazon: 'https://www.amazon.co.jp/dp/B07X6JHZ9K?tag=beautynavi22-22',
+      amazon: 'https://www.amazon.co.jp/dp/B0FLPRRH5D?tag=beautynavi22-22',
       rakuten: 'https://search.rakuten.co.jp/search/mall/ダイソン+ドライヤー/',
       official: 'https://www.dyson.co.jp/',
     },
@@ -362,7 +362,7 @@ export const products: Product[] = [
     reviewCount: 21000,
     imageUrl: '/images/placeholder.svg',
     affiliateUrls: {
-      amazon: 'https://www.amazon.co.jp/dp/B09BFZZMCM?tag=beautynavi22-22',
+      amazon: 'https://www.amazon.co.jp/dp/B0B72HZHLG?tag=beautynavi22-22',
       rakuten: 'https://search.rakuten.co.jp/search/mall/パナソニック+ナノケア+ドライヤー/',
     },
     catchCopy: 'ナノイーEXで髪のうるおいをキープ。コスパ最強',

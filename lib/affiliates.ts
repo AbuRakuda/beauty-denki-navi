@@ -20,37 +20,37 @@ export function rakutenUrl(itemCode: string): string {
 // 商品ごとのアフィリURL（審査通過後に実URLへ置き換え）
 export const AFFILIATE_URLS = {
   kenon: {
-    amazon: amazonUrl('B07GFQ7RKC'),
+    amazon: amazonUrl('B091F7BL35'),
     rakuten: rakutenUrl('kenon/kenon-set'),
     official: 'https://www.ke-non.com/',
     a8: '', // A8.net審査後に追加
   },
   braunSilkExpert: {
-    amazon: amazonUrl('B09YQJNZKG'),
+    amazon: amazonUrl('B09TFGV11Z'),
     rakuten: rakutenUrl('braun/silk-expert-pro5'),
     official: 'https://www.braun.com/ja-jp/',
     a8: '',
   },
   panasonicIpl: {
-    amazon: amazonUrl('B09ZK89TMP'),
+    amazon: amazonUrl('B0DT2W8QXZ'),
     rakuten: rakutenUrl('panasonic/es-wp97'),
     official: 'https://panasonic.net/cns/beauty/',
     a8: '',
   },
   yamanPhotoPlus: {
-    amazon: amazonUrl('B08Y5MNLQ3'),
+    amazon: amazonUrl('B0FM6N6PDK'),
     rakuten: rakutenUrl('yaman/photo-plus-ex'),
     official: 'https://www.ya-man.com/',
     a8: '',
   },
   dysonSupersonic: {
-    amazon: amazonUrl('B07X6JHZ9K'),
+    amazon: amazonUrl('B0FLPRRH5D'),
     rakuten: rakutenUrl('dyson/supersonic'),
     official: 'https://www.dyson.co.jp/',
     a8: '',
   },
   panasonicNanoe: {
-    amazon: amazonUrl('B09BFZZMCM'),
+    amazon: amazonUrl('B0B72HZHLG'),
     rakuten: rakutenUrl('panasonic/eh-na0j'),
     official: 'https://panasonic.net/cns/beauty/',
     a8: '',
