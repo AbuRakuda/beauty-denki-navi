@@ -7,7 +7,7 @@
  * 3. A8.netはパラメータ付きURLをそのまま貼る
  */
 
-export const AMAZON_TAG = 'beautynavi-22'; // Amazonアソシエイト タグ
+export const AMAZON_TAG = 'beautynavi22-22'; // Amazonアソシエイト タグ
 
 export function amazonUrl(asin: string): string {
   return `https://www.amazon.co.jp/dp/${asin}?tag=${AMAZON_TAG}`;
