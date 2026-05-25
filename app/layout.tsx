@@ -25,6 +25,9 @@ export const metadata: Metadata = {
     description: '30・40代女性向け美容家電比較サイト',
   },
   robots: { index: true, follow: true },
+  verification: {
+    google: 'wwrFYfhse_1xNE_8oO54t-Nc0730gM0-ny7GSbzXt4k',
+  },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
