@@ -7,7 +7,6 @@ export const metadata: Metadata = {
 };
 
 const SITE_NAME = '美容家電NAVI';
-const CONTACT_EMAIL = 'contact@beauty-denki-navi.com'; // ← 実際のメアドに変更
 
 export default function PrivacyPolicyPage() {
   return (
@@ -101,12 +100,11 @@ export default function PrivacyPolicyPage() {
         <section>
           <h2 className="text-lg font-bold text-gray-800 mb-3">8. お問い合わせ</h2>
           <p>
-            本ポリシーに関するお問い合わせは下記までご連絡ください。
-            <br />
-            メールアドレス：
-            <a href={`mailto:${CONTACT_EMAIL}`} className="text-rose-400 underline ml-1">
-              {CONTACT_EMAIL}
+            本ポリシーに関するお問い合わせは
+            <a href="/contact" className="text-rose-400 underline mx-1">
+              お問い合わせフォーム
             </a>
+            よりご連絡ください。
           </p>
         </section>
       </div>

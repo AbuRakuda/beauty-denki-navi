@@ -125,7 +125,7 @@ export default function ContactPage() {
 
       <div className="mt-4 flex items-center gap-2 text-sm text-gray-500">
         <Mail className="w-4 h-4" />
-        <span>メールでのご連絡：contact@beauty-denki-navi.com</span>
+        <span>ご返信はフォームにご入力いただいたメールアドレス宛にお送りします</span>
       </div>
     </div>
   );

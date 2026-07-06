@@ -5,7 +5,7 @@ import Footer from '@/components/Footer';
 import GoogleAnalytics from '@/components/analytics/GoogleAnalytics';
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://beauty-denki-navi.com'),
+  metadataBase: new URL('https://beauty-denki-navi.vercel.app'),
   title: {
     default: '美容家電NAVI | 30・40代女性のための美容家電比較サイト',
     template: '%s | 美容家電NAVI',

@@ -2,7 +2,7 @@ import { MetadataRoute } from 'next';
 import { products } from '@/data/products';
 import { articles } from '@/data/articles';
 
-const BASE_URL = 'https://beauty-denki-navi.com';
+const BASE_URL = 'https://beauty-denki-navi.vercel.app';
 
 const CATEGORIES = ['epilator', 'face-device', 'hair-dryer', 'skin-care'];
 
